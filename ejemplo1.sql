@@ -1,0 +1,1 @@
+SELECT * FROM ejemplo1.alumno;
